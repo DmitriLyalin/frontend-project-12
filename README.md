@@ -1,1 +1,1 @@
-https://dashboard.render.com/web/srv-dbmc8iek1f9s738kr3m0/deploys/dep-dbmc8iuk1f9s738kr4e0?r=2026-11-05%4017%3A59%3A43%7E2026-11-05%4018%3A02%3A29
+https://frontend-project-12-0km1.onrender.com
